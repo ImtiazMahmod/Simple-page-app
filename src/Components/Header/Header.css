@@ -1,0 +1,36 @@
+.header {
+    text-align: center;
+}
+
+img {
+    width: 25%;
+    margin: 10px;
+}
+
+nav {
+    background-color: black;
+    text-align: left;
+    padding: 15px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    margin-left: 20px;
+    padding: 15px;
+}
+
+nav a:hover {
+    background-color: blanchedalmond;
+    color: black;
+}
+
+.input-container {
+    background-color: rgb(48, 48, 48);
+    padding: 20px;
+}
+
+input {
+    width: 75%;
+    padding: 5px;
+}

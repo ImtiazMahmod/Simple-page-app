@@ -1,0 +1,12 @@
+.cart {
+    margin-left: 10px;
+}
+
+
+.cart-header {
+    text-align: center;
+}
+
+.cart-total {
+    color: darkred;
+}
